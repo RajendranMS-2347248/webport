@@ -1,0 +1,49 @@
+body{
+font-family: sans-serif;
+font-size: medium;
+width:auto;
+color: antiquewhite;
+background-color: black; 
+margin: none;
+}
+
+.para{
+  display:inline-flex;
+  flex-wrap: wrap;
+  text-indent: 50px;
+  justify-content: center;
+}
+
+.hero{ 
+  background-image: url("wallpaperflare.com_wallpaper-4.jpg");
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-text{
+position: absolute;
+top: 27px;
+left:30%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: small;
+width:auto;
+color: khaki;
+background-color: black;
+margin: none; 
+}
+
+a:link{
+  color: orangered;
+}
+
+a:visited{
+  color: red;
+  background-color: dimgray;
+}
+
+a:hover{
+color: orangered;
+}
