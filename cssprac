@@ -1,0 +1,7 @@
+.imageSettings{
+    background-image: url('Images/tea.jpg');
+    background-size: cover;
+}
+#footer{
+    background-color: antiquewhite;
+}
